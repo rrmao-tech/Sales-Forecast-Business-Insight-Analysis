@@ -56,7 +56,7 @@ Sales-Forecast-Project/
 │
 └── README.md
 🚀 How to Run
-git clone [https://github.com/rrmao-tech/sales-forecast-project.git]
+git clone [https://github.com/rrmao-tech/Sales-Forecast-Business-Insight-Analysis.git]
 cd sales-forecast-project
 pip install pandas matplotlib
 python src/forecast.py
